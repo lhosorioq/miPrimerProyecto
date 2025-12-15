@@ -1,6 +1,8 @@
 # Objetivos del Master
 
 ## Objetivo Nro 1 - Aprovechar
-aprovechar al maximo las tutorias brindadas y los textos proporcionado en cada tema, para poder aprender y potenciar los conocimientos.
+Aprovechar al maximo las tutorias brindadas y los textos proporcionado en cada tema, para poder aprender y potenciar los conocimientos.
 
+## Objetivo Nro 2 - Conocimiento
+Aunque tengo un conocimiento sobre el desarrollo web, deseo poder aprender mucho mas y poder aplicar estas herramientas en mi area de trabajo en el dia a dia.
 
